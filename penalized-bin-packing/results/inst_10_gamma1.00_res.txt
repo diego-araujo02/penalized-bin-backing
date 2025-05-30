@@ -1,0 +1,10 @@
+instancia: "inst_10_gamma1.00.txt"
+n: 50
+Q: 2020
+K: 7
+gamma: 1
+tempo_s: 0.3933
+status: Optimal
+objetivo: 7.0000
+bins_usados: 4.0000
+bins_impuro: 3.0000

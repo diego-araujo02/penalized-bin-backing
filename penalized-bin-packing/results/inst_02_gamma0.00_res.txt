@@ -1,0 +1,10 @@
+instancia: "inst_02_gamma0.00.txt"
+n: 50
+Q: 570
+K: 7
+gamma: 0
+tempo_s: 6.7567
+status: Optimal
+objetivo: 6.0000
+bins_usados: 6.0000
+bins_impuro: 6.0000

@@ -1,0 +1,10 @@
+instancia: "inst_14_gamma1.00.txt"
+n: 100
+Q: 1600
+K: 7
+gamma: 1
+tempo_s: 60.0240
+status: Feasible
+objetivo: 102.0000
+bins_usados: 97.0000
+bins_impuro: 5.0000

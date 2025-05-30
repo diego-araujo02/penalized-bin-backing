@@ -1,0 +1,10 @@
+instancia: "inst_20_gamma1.00.txt"
+n: 100
+Q: 3899
+K: 7
+gamma: 1
+tempo_s: 60.0193
+status: Feasible
+objetivo: 13.0000
+bins_usados: 12.0000
+bins_impuro: 1.0000

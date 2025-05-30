@@ -1,0 +1,10 @@
+instancia: "inst_13_gamma1.00.txt"
+n: 100
+Q: 1793
+K: 3
+gamma: 1
+tempo_s: 49.0053
+status: Optimal
+objetivo: 12.0000
+bins_usados: 12.0000
+bins_impuro: 0.0000
