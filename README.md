@@ -1,6 +1,6 @@
 # Penalized Bin Packing (PBP)
 
-Este repositório contém a implementação de um modelo de Programação Linear Inteira Mista (MILP) para o problema de Bin Packing Penalizado, utilizando o solver IBM CPLEX Optimization Studio.
+Este repositório contém a implementação de um modelo de Programação Linear Inteira para o problema de Bin Packing Penalizado, utilizando o solver IBM CPLEX Optimization Studio.
 
 ## Visão Geral
 
